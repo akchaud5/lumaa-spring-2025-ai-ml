@@ -48,5 +48,7 @@ Top 3 recommendations based on: 'I love science fiction movies with amazing visu
 # Dependencies
 
 pandas
+
 numpy
+
 scikit-learn
