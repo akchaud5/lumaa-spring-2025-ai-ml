@@ -3,9 +3,8 @@ A content-based movie recommender using TF-IDF and cosine similarity.
 
 # Dataset
 
-Uses TMDB 5000 Movies Dataset (tmdb_5000_movies.csv)
-Store in data/ directory
-Contains movie titles, overviews, genres, and metadata
+This project uses the TMDB Movies Dataset, which contains movie information including titles, overviews, genres, and keywords. The dataset can be downloaded from Kaggle.
+Save the downloaded CSV file as movies_dataset.csv in the project root directory.
 
 Setup Requirements
 - Python 3.13.1
