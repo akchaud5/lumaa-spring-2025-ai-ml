@@ -13,6 +13,7 @@ Setup Requirements
 
 # Create and activate environment
 python3 -m venv venv
+
 source venv/bin/activate
 
 # Install dependencies
