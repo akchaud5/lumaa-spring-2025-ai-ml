@@ -28,7 +28,7 @@ python3 movie.py "I love science fiction movies with amazing visual effects"
 
 --data_path PATH        # Custom dataset path
 
-Sample Output
+# Sample Output
 
 Top 3 recommendations based on: 'I love science fiction movies with amazing visual effects'
 
