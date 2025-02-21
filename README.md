@@ -1,6 +1,7 @@
-Movie Recommendation System
+# Movie Recommendation System
 A content-based movie recommender using TF-IDF and cosine similarity.
-Dataset
+
+# Dataset
 
 Uses TMDB 5000 Movies Dataset (tmdb_5000_movies.csv)
 Store in data/ directory
@@ -17,7 +18,7 @@ source venv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
-Usage
+# Usage
 
 python3 movie.py "I love science fiction movies with amazing visual effects"
 
