@@ -25,7 +25,9 @@ python3 movie.py "I love science fiction movies with amazing visual effects"
 
 # Optional arguments
 --num_recommendations N  # Number of recommendations (default: 3)
+
 --data_path PATH        # Custom dataset path
+
 Sample Output
 
 Top 3 recommendations based on: 'I love science fiction movies with amazing visual effects'
