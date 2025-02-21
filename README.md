@@ -6,8 +6,7 @@ Uses TMDB 5000 Movies Dataset (tmdb_5000_movies.csv)
 Store in data/ directory
 Contains movie titles, overviews, genres, and metadata
 
-Setup
-bashCopy# Requirements
+Setup Requirements
 - Python 3.13.1
 - Virtual environment
 
@@ -17,14 +16,17 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+
 Usage
-bashCopypython3 movie.py "I love science fiction movies with amazing visual effects"
+
+python3 movie.py "I love science fiction movies with amazing visual effects"
 
 # Optional arguments
 --num_recommendations N  # Number of recommendations (default: 3)
 --data_path PATH        # Custom dataset path
 Sample Output
-CopyTop 3 recommendations based on: 'I love science fiction movies with amazing visual effects'
+
+Top 3 recommendations based on: 'I love science fiction movies with amazing visual effects'
 
 1. Space Pirate Captain Harlock (0.594)
    Genres: animation, science fiction
