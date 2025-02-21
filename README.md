@@ -43,7 +43,9 @@ Top 3 recommendations based on: 'I love science fiction movies with amazing visu
 3. Invaders from Mars (0.453)
    Genres: science fiction
    Overview: In this remake of the classic 50s SF tale...
-Dependencies
+
+   
+# Dependencies
 
 pandas
 numpy
